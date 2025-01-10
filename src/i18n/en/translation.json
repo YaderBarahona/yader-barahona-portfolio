@@ -1,0 +1,361 @@
+{
+  "basic_info": {
+    "name": "Yader Barahona",
+    "titles": [ "Software Engineer", "Full Stack Developer", "Web Developer" ],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "https://www.linkedin.com/in/yader-barahona-8a3897252/"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/YaderBarahona"
+      },
+      {
+        "icon": "mdi:gmail",
+        "url": "mailto:yaderbarahona180@gmail.com"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "About me",
+    "greeting": "Hi",
+    "content": "👋 I'm Yader Barahona. Professional graduated in information systems engineering, with a proactive and self-taught approach, with experience in fullstack software development and server administration. I stand out for my ability to learn quickly and adapt to dynamic environments.",
+    "image": "Yader_Barahona.jpg",
+    "tech_stacks": ["devicon:nodejs", "devicon:react", "devicon:mongodb"]
+  },
+  "projects": {
+    "title": "projects",
+    "projects": [
+      {
+        "title": "Redconare Website",
+        "startDate": "2024",
+        "description": "During my time at CNCA Cenat, I was responsible for the Redconare website throughout its entire lifecycle. My responsibilities included continuous site maintenance as well as creating updated and relevant content.",
+        "images": [
+          "images/portfolio/redconare/redconare1.PNG",
+          "images/portfolio/redconare/redconare6.PNG"
+        ],
+        "url": "https://www.redconare.ac.cr/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress",
+            "name": "WordPress"
+          },
+          {
+            "class": "devicon-php",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-linux",
+            "name": "Linux Ubuntu"
+          }
+        ]
+      },
+      {
+        "title": "Revol-U-cionando Website",
+        "startDate": "2024",
+        "description": "In this project, I actively participated in the creation of content and the management of the REVOL-U-CIONANDO website, an initiative focused on automation and its impact on universities and Industry 4.0. The research explored how automation and artificial intelligence are transforming various aspects of human life, from the industrial revolution to current advancements.",
+        "images": [
+          "images/portfolio/redconare/redconare2.PNG",
+          "images/portfolio/redconare/redconare5.PNG"
+        ],
+        "url": "https://revolucionando.conare.ac.cr/",
+        "technologies": [
+          {
+            "class": "devicon-react",
+            "name": "React"
+          },
+          {
+            "class": "devicon-flask",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-python",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySql"
+          }
+          
+        ]
+      },
+      {
+        "title": "Tendencias Website",
+        "startDate": "2024",
+        "description": "For the Tendencias project, I was part of the team responsible for creating and managing a digital space focused on social and cultural dynamics surrounding online media in Costa Rica. The site aims to provide access to data collected from various research studies and present this data interactively and graphically, promoting new research initiatives in the field of digital media.",
+        "images": [
+          "images/portfolio/redconare/redconare3.PNG",
+          "images/portfolio/redconare/redconare4.PNG",
+          "images/portfolio/redconare/redconare7.PNG"
+        ],
+        "url": "https://tendencias.cenat.ac.cr/",
+        "technologies": [
+          {
+            "class": "devicon-react",
+            "name": "React"
+          },
+          {
+            "class": "devicon-flask",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-python",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mongodb",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Berjumi E-commerce",
+        "startDate": "2024",
+        "description": "This project involves the development of an online store specialized in the sale of automotive products, designed to facilitate the purchase and management of products in a more efficient and modern way. Previously, the ordering process was done manually, making it difficult to track and organize orders. With this platform, customers can place orders quickly and easily, while system administrators manage all purchases from a single digital environment.",
+        "images": [
+          "images/portfolio/berjumi/berjumi1.PNG",
+          "images/portfolio/berjumi/berjumi2.PNG"
+        ],
+        "url": "https://berjumi.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-php",           
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Fogo E-commerce",
+        "startDate": "2023",
+        "description": "This project involves the development of an eCommerce platform specializing in the sale of grocery products. The online store is designed to provide a smooth and secure shopping experience, allowing users to browse and purchase products quickly and easily.",
+        "images": [
+          "images/portfolio/fogo/fogo1.PNG",
+          "images/portfolio/fogo/fogo2.PNG"
+        ],
+        "url": "https://fogocr.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-php",           
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "CTPL attendance control system",
+        "startDate": "2023",
+        "description": "This project consists of the development of an attendance control system aimed at improving the management of student attendance in the cafeteria at the Colegio Técnico de Liberia. The solution allows for the efficient recording and monitoring of student presence, ensuring proper resource distribution in the cafeteria and facilitating real-time decision-making.",
+        "images": [
+          "images/portfolio/ctpl/ctpl1.png",
+          "images/portfolio/ctpl/ctpl2.PNG",
+          "images/portfolio/ctpl/ctpl3.PNG",
+          "images/portfolio/ctpl/ctpl4.PNG",
+          "images/portfolio/ctpl/ctpl5.PNG",
+          "images/portfolio/ctpl/ctpl6.PNG",
+          "images/portfolio/ctpl/ctpl7.PNG"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-html5",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-php",           
+            "name": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3",
+        "level": "95"
+      },
+      { 
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap",
+        "level": "85"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript",
+        "level": "65"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react",
+        "level": "65"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql",
+        "level": "60"
+      },
+      {
+        "name": "SQL Server",
+        "class": "devicon-microsoftsqlserver",
+        "level": "65"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-csharp",
+        "level": "65"
+      },
+      {
+        "name": ".NET Core",
+        "class": "devicon-dotnetcore",
+        "level": "65"
+      },
+      {
+        "name": "PHP",
+        "class": "devicon-php",
+        "level": "65"
+      },
+      {
+        "name": "Node.js",
+        "class": "devicon-nodejs",
+        "level": "65"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git",
+        "level": "65"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker",
+        "level": "65"
+      },
+      {
+        "name": "Linux",
+        "class": "devicon-linux",
+        "level": "65"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experiences": [
+      {
+        "company": "CNCA CeNAT - Temporal Contract",
+        "title": "Web Development and Monitoring",
+        "years": "05/2024 - 12/2024",
+        "mainTech": "PHP - JS - React - Linux Ubuntu",
+        "mainTechIcon": "mdi:linux",
+        "technologies": [
+          "API Restful",
+          "PHP",
+          "WordPress",
+          "JavaScript",
+          "React",
+          "Python",
+          "Node.js",
+          "Mysql",
+          "MongoDB",
+          "Linux Ubuntu",
+          "SCRUM", 
+          "KANBAN"
+        ]
+      },
+      {     
+        "company": "Nearlinx",
+        "title": "Intern Software Engineer",
+        "years": "07/2024 - 11/2024",
+        "mainTech": "React",
+        "mainTechIcon": "mdi-dot-net",
+        "technologies": ["C#", ".NET Framework", "SQL Server", "SCRUM", "KANBAN", "MVC"]
+      },
+      {
+        "company": "LabCIBE-UNA",
+        "title": "FullStack Web Development",
+        "years": "04/2024 - 11/2024",
+        "mainTech": "React",
+        "mainTechIcon": "mdi-nodejs",
+        "technologies": ["API Restful", "C#", ".NET Framework", "SQL Server", "Node.js", "Firebase", "SCRUM"]
+      },
+      {
+        "company": "Berjumi E-commerce - Freelance Project",
+        "title": "FullStack Web Development",
+        "years": "04/2024 - 07/2024",
+        "mainTech": "React",
+        "mainTechIcon": "mdi-language-php",
+        "technologies": ["PHP", "JavaScript", "Mysql", "Bootstrap", "MVC", "SCRUM"]
+      },
+      {
+        "company": "Fogo E-commerce - Freelance Project",
+        "title": "FullStack Web Development",
+        "years": "03/2023 - 10/2023",
+        "mainTech": "React",
+        "mainTechIcon": "mdi-language-php",
+        "technologies": ["PHP", "JavaScript", "Mysql", "Bootstrap", "MVC", "SCRUM"]
+      }
+    ]
+  },
+  "copyright": "Copyright"
+}
