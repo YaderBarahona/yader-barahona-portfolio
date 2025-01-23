@@ -29,7 +29,7 @@ const Experience = () => {
           <VerticalTimelineElement
             key={exp.title}
             date={exp.years}
-            dateClassName="dark:text-white"
+            dateClassName="dark:text-black"
             iconClassName="bg-[#AE944F] text-white dark:bg-[#919191]"
             icon={<Icon icon={exp.mainTechIcon} />}
             className="dark:brightness-80 dark:filter"

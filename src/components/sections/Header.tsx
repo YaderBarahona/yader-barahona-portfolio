@@ -5,7 +5,6 @@ import { useTranslation } from "react-i18next";
 import { Icon } from "@iconify/react";
 import { TypeAnimation } from "react-type-animation";
 import { ThemeContext, ThemeContextInterface } from "@/contexts";
-import Resume from "./Resumen";
 
 const Header = () => {
   const { darkTheme, toggleTheme } = useContext(
@@ -70,14 +69,25 @@ const Header = () => {
       <div className="flex justify-center bg-yellow dark:bg-[#494949]">
         <button
           className="hover:bg-gray-700 dark:bg-gray-300 dark:hover:bg-gray-400 flex items-center gap-2 rounded-lg bg-gray-dark px-6 py-3 text-white transition-transform duration-300 hover:scale-105 dark:text-gray-dark"
-          onClick={() => window.open(`${import.meta.env.MODE === 'dev' ? '' : '/yader-barahona-portfolio'}/resume/Yader_Barahona_CV.pdf`, "_blank")}
+          onClick={() =>
+            window.open(
+              `${
+                import.meta.env.MODE === "dev"
+                  ? ""
+                  : "/yader-barahona-portfolio"
+              }/resume/Yader_Barahona_CV.pdf`,
+              "_blank",
+            )
+          }
         >
-          <Icon icon="mdi:file-pdf-box" className="text-xl" />
-          Resume
+          <Icon
+            icon="mdi:file-pdf-box"
+            className="text-xl text-white dark:text-white"
+          />
+          <span className="text-white dark:text-white">Resume</span>
         </button>
-
       </div>
-      
+
       <div className="flex justify-center gap-5 bg-yellow pb-2.5 pt-20 dark:bg-[#494949]">
         <Icon
           className={clsx(
