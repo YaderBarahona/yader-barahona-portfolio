@@ -1,6 +1,6 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://yaderbarahona.github.io/yader-barahona-portfolio/",  
+  "homepage": "https://yaderbarahona.github.io/yader-barahona-portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -22,6 +22,7 @@
     "react-awesome-slider": "^4.1.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^13.1.2",
+    "react-pdf": "^9.2.1",
     "react-switch": "^7.0.0",
     "react-type-animation": "^3.1.0",
     "react-vertical-timeline-component": "^3.6.0"

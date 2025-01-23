@@ -14,6 +14,10 @@
       {
         "icon": "mdi:gmail",
         "url": "mailto:yaderbarahona180@gmail.com"
+      },
+      {
+        "icon": "mdi:whatsapp",
+        "url": "https://wa.me/+50664531362"
       }
     ]
   },
@@ -22,13 +26,51 @@
     "greeting": "Hi",
     "content": "👋 I'm Yader Barahona. Professional graduated in information systems engineering, with a proactive and self-taught approach, with experience in fullstack software development and server administration. I stand out for my ability to learn quickly and adapt to dynamic environments.",
     "image": "Yader_Barahona.jpg",
-    "tech_stacks": ["devicon:nodejs", "devicon:react", "devicon:mongodb"]
+    "tech_stacks": ["devicon:nodejs", "devicon:react", "devicon:mysql"]
   },
   "projects": {
     "title": "projects",
     "projects": [
       {
-        "title": "Redconare Website",
+        "title": "COP SPIDER",
+        "startDate": "2024",
+        "description": "The COP SPIDER platform was designed and implemented as a functional collaborative solution that optimizes resource management among the parties involved. Specific modules were developed to share information, upload documents and centrally manage activities. In addition, key functionalities such as access control, forums, chat, event management, file storage and meeting organization were integrated, providing a comprehensive tool for efficient collaboration and communication between users.",
+        "images": [
+          "images/portfolio/cop/cop1.PNG",
+          "images/portfolio/cop/cop2.PNG",
+          "images/portfolio/cop/cop3.jpeg",
+          "images/portfolio/cop/cop4.jpeg",
+          "images/portfolio/cop/cop5.jpeg",
+          "images/portfolio/cop/cop6.jpeg",
+          "images/portfolio/cop/cop7.jpeg",
+          "images/portfolio/cop/cop8.jpeg"
+        ],
+        "url": "https://spidernetwork.org/CoP/",
+"technologies": [
+          {
+            "class": "devicon-wordpress",
+            "name": "WordPress"
+          },
+          {
+            "class": "devicon-php",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-linux",
+            "name": "Linux Ubuntu"
+          }
+        ]
+      },
+      {
+        "title": "Redconare",
         "startDate": "2024",
         "description": "During my time at CNCA Cenat, I was responsible for the Redconare website throughout its entire lifecycle. My responsibilities included continuous site maintenance as well as creating updated and relevant content.",
         "images": [
@@ -60,7 +102,7 @@
         ]
       },
       {
-        "title": "Revol-U-cionando Website",
+        "title": "Revol-U-cionando",
         "startDate": "2024",
         "description": "In this project, I actively participated in the creation of content and the management of the REVOL-U-CIONANDO website, an initiative focused on automation and its impact on universities and Industry 4.0. The research explored how automation and artificial intelligence are transforming various aspects of human life, from the industrial revolution to current advancements.",
         "images": [
@@ -89,7 +131,7 @@
         ]
       },
       {
-        "title": "Tendencias Website",
+        "title": "Tendencias",
         "startDate": "2024",
         "description": "For the Tendencias project, I was part of the team responsible for creating and managing a digital space focused on social and cultural dynamics surrounding online media in Costa Rica. The site aims to provide access to data collected from various research studies and present this data interactively and graphically, promoting new research initiatives in the field of digital media.",
         "images": [
@@ -114,6 +156,76 @@
           {
             "class": "devicon-mongodb",
             "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Digital Twins Fiveware",
+        "startDate": "2024",
+        "description": "This project focused on the exploration and application of Smart Data Models in the field of intelligent data management. As part of the activities, a detailed technical study was carried out to analyze their structure, characteristics and applicability in various projects. Subsequently, a proof of concept was successfully implemented to validate the functionality and scalability of Smart Data Models in a controlled environment, demonstrating their potential to optimize data management and processing in real contexts.",
+        "images": [
+          "images/portfolio/fiv/fiv1.jpeg",
+          "images/portfolio/fiv/fiv2.jpeg",
+          "images/portfolio/fiv/fiv3.jpeg",
+          "images/portfolio/fiv/fiv4.jpeg"
+        ],
+        "url": "https://tendencias.cenat.ac.cr/",
+        "technologies": [
+          {
+            "class": "devicon-react",
+            "name": "React"
+          },
+          {
+            "class": "devicon-flask",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-python",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mongodb",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "LABCIBE Chatbot WhatsApp",
+        "startDate": "2024",
+        "description": "This project was created to combat the problem of computer phishing by allowing users to report phishing attempts via images sent to a WhatsApp chat. To do this, an automated chatbot was developed with a response flow designed to collect these reports efficiently. The data obtained is stored in a database for further analysis, dissemination in awareness campaigns, and publication in social networks or other channels with the aim of preventing new attacks.",
+        "images": [
+          "images/portfolio/labcibe/labcibe4.png",
+          "images/portfolio/labcibe/labcibe5.png",
+          "images/portfolio/labcibe/labcibe1.PNG",
+          "images/portfolio/labcibe/labcibe2.PNG",
+          "images/portfolio/labcibe/labcibe3.PNG",
+          "images/portfolio/labcibe/labcibe6.png"
+        ],
+        "url": "https://spidernetwork.org/CoP/",
+"technologies": [
+          {
+            "class": "devicon-nodejs",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-csharp",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dotnetcore",
+            "name": ".NET Core"
+          },
+          {
+            "class": "devicon-openapi",
+            "name": "Open API"
+          },
+          {
+            "class": "devicon-microsoftsqlserver",
+            "name": "SQL Server"
+          },
+          {
+            "class": "devicon-firebase",
+            "name": "Firebase"
           }
         ]
       },
@@ -219,6 +331,42 @@
       }
     ]
   },
+
+
+  "projects_personal": {
+    "title": "personal projects",
+    "projects": [
+      {
+        "title": "TODO LIST MERN AUTH",
+        "startDate": "2024",
+        "description": "TODO-LIST APP con login y register, desarrollada en react, nodejs expressy mongodb, utilizando arquitectura API Restful, con autenticacion jwt en cookies, backend desplegado en render, frontend desplegado en netlify y base de datos mongodbatlas",
+        "images": [
+          "images/portfolio/todol/todol1.PNG",
+          "images/portfolio/todol/todol2.PNG",
+          "images/portfolio/todol/todol3.PNG"
+        ],
+        "url": "https://todolist-mern-auth.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-tailwindcss",
+            "name": "TailwindCSS"
+          }
+        ]
+      }
+    ]
+  },
   "skills": {
     "title": "Skills",
     "icons": [
@@ -236,6 +384,11 @@
         "name": "Bootstrap",
         "class": "devicon-bootstrap",
         "level": "85"
+      },
+      {
+        "name": "TailwindCSS",
+        "class": "devicon-tailwindcss",
+        "level": "65"
       },
       {
         "name": "JavaScript",
@@ -263,6 +416,21 @@
         "level": "65"
       },
       {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql",
+        "level": "65"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java",
+        "level": "65"
+      },
+      {
+        "name": "Android Studio",
+        "class": "devicon-androidstudio",
+        "level": "65"
+      },
+      {
         "name": "C#",
         "class": "devicon-csharp",
         "level": "65"
@@ -278,8 +446,18 @@
         "level": "65"
       },
       {
+        "name": "WordPress",
+        "class": "devicon-wordpress",
+        "level": "65"
+      },
+      {
         "name": "Node.js",
         "class": "devicon-nodejs",
+        "level": "65"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express",
         "level": "65"
       },
       {
@@ -319,6 +497,7 @@
           "Mysql",
           "MongoDB",
           "Linux Ubuntu",
+          "Docker",
           "SCRUM", 
           "KANBAN"
         ]
