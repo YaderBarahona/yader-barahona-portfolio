@@ -169,7 +169,6 @@
           "images/portfolio/fiv/fiv3.jpeg",
           "images/portfolio/fiv/fiv4.jpeg"
         ],
-        "url": "https://tendencias.cenat.ac.cr/",
         "technologies": [
           {
             "class": "devicon-react",
@@ -201,8 +200,7 @@
           "images/portfolio/labcibe/labcibe3.PNG",
           "images/portfolio/labcibe/labcibe6.png"
         ],
-        "url": "https://spidernetwork.org/CoP/",
-"technologies": [
+    "technologies": [
           {
             "class": "devicon-nodejs",
             "name": "Node.js"
@@ -258,6 +256,48 @@
           {
             "class": "devicon-php",           
             "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Mathledge App",
+        "startDate": "2024",
+        "description": "Mathledge App es una aplicación móvil diseñada especialmente para el público infantil. Su objetivo principal es hacer del aprendizaje de las matemáticas una experiencia divertida e interactiva. Los niños podrán practicar sumas, restas y multiplicaciones mientras acumulan puntos y compiten para alcanzar los mejores puntajes.",
+        "images": [
+          "images/portfolio/mathledge/math1.PNG",
+          "images/portfolio/mathledge/math2.PNG",
+          "images/portfolio/mathledge/math3.PNG",
+          "images/portfolio/mathledge/math4.PNG",
+          "images/portfolio/mathledge/math5.PNG",
+          "images/portfolio/mathledge/math6.PNG",
+          "images/portfolio/mathledge/math7.PNG",
+          "images/portfolio/mathledge/math8.PNG",
+          "images/portfolio/mathledge/math9.PNG"
+        ],
+"technologies": [
+          {
+            "class": "devicon-java",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-androidstudio",
+            "name": "Android Studio"
+          },
+          {
+            "class": "devicon-spring",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-sqlite",
+            "name": "SQLite"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-figma",
+            "name": "Figma"
           }
         ]
       },
