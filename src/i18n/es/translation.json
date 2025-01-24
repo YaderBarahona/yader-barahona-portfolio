@@ -453,6 +453,11 @@
         "level": "65"
       },
       {
+        "name": "SQLite",
+        "class": "devicon-sqlite",
+        "level": "65"
+      },
+      {
         "name": "Java",
         "class": "devicon-java",
         "level": "65"
