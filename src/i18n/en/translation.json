@@ -24,7 +24,7 @@
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": "👋 I'm Yader Barahona. Professional graduated in information systems engineering, with a proactive and self-taught approach, with experience in fullstack software development and server administration. I stand out for my ability to learn quickly and adapt to dynamic environments.",
+    "content": "👋 I'm Yader Barahona. Information Systems Engineer, with a proactive and self-taught approach, with experience in fullstack software development and server administration. I stand out for my ability to learn quickly and adapt to dynamic environments.",
     "image": "Yader_Barahona.jpg",
     "tech_stacks": ["devicon:nodejs", "devicon:react", "devicon:mysql"]
   },
@@ -32,197 +32,88 @@
     "title": "projects",
     "projects": [
       {
-        "title": "COP SPIDER",
+        "title": "NcVitamins",
         "startDate": "2024",
-        "description": "The COP SPIDER platform was designed and implemented as a functional collaborative solution that optimizes resource management among the parties involved. Specific modules were developed to share information, upload documents and centrally manage activities. In addition, key functionalities such as access control, forums, chat, event management, file storage and meeting organization were integrated, providing a comprehensive tool for efficient collaboration and communication between users.",
+        "description": "This project involved the development of an e-commerce website focused on the sale of natural medicinal products. The platform was designed to facilitate access to supplements and alternative treatments aimed at improving various health conditions. Customers can easily browse, select, and purchase products, while the administrative team manages inventory, orders, and promotions through a centralized dashboard. Key features include secure payment methods and a recommendation system based on specific health needs.",
         "images": [
-          "images/portfolio/cop/cop1.PNG",
-          "images/portfolio/cop/cop2.PNG",
-          "images/portfolio/cop/cop3.jpeg",
-          "images/portfolio/cop/cop4.jpeg",
-          "images/portfolio/cop/cop5.jpeg",
-          "images/portfolio/cop/cop6.jpeg",
-          "images/portfolio/cop/cop7.jpeg",
-          "images/portfolio/cop/cop8.jpeg"
+          "images/portfolio/ncvitamins/nc1.PNG",
+          "images/portfolio/ncvitamins/nc2.PNG",
+          "images/portfolio/ncvitamins/nc3.PNG"
         ],
-        "url": "https://spidernetwork.org/CoP/",
+        "url": "https://ncvitamins.com/",
         "technologies": [
           {
-            "class": "devicon-wordpress",
-            "name": "WordPress"
-          },
-          {
-            "class": "devicon-php",
-            "name": "PHP"
+            "class": "devicon-html5",
+            "name": "HTML"
           },
           {
             "class": "devicon-javascript",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-mysql",
-            "name": "MySql"
-          },
-          {
-            "class": "devicon-linux",
-            "name": "Linux Ubuntu"
+            "class": "devicon-css3",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "Redconare",
+        "title": "ConcentradosABA",
         "startDate": "2024",
-        "description": "During my time at CNCA Cenat, I was responsible for the Redconare website throughout its entire lifecycle. My responsibilities included continuous site maintenance as well as creating updated and relevant content.",
+        "description": "A web-based system developed to manage the logistics of customer and sales representative routes in the agricultural sector, specializing in the distribution of animal feed concentrates. The platform enables the registration, assignment, and tracking of technical and commercial visits, optimizing customer follow-up based on geographic location and assigned routes. It includes features for user management, reporting, and activity tracking, improving operational efficiency and field visit traceability.",
         "images": [
-          "images/portfolio/redconare/redconare1.PNG",
-          "images/portfolio/redconare/redconare6.PNG"
+          "images/portfolio/aba/aba1.PNG",
+          "images/portfolio/aba/aba2.PNG"
         ],
-        "url": "https://www.redconare.ac.cr/",
+        "url": "https://concentradosaba.com",
         "technologies": [
           {
-            "class": "devicon-wordpress",
-            "name": "WordPress"
+            "class": "devicon-postgresql",
+            "name": "PostgreSQL"
           },
-          {
-            "class": "devicon-php",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-javascript",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-mysql",
-            "name": "MySql"
-          },
-          {
-            "class": "devicon-linux",
-            "name": "Linux Ubuntu"
-          }
-        ]
-      },
-      {
-        "title": "Revol-U-cionando",
-        "startDate": "2024",
-        "description": "In this project, I actively participated in the creation of content and the management of the REVOL-U-CIONANDO website, an initiative focused on automation and its impact on universities and Industry 4.0. The research explored how automation and artificial intelligence are transforming various aspects of human life, from the industrial revolution to current advancements.",
-        "images": [
-          "images/portfolio/redconare/redconare2.PNG",
-          "images/portfolio/redconare/redconare5.PNG"
-        ],
-        "url": "https://revolucionando.conare.ac.cr/",
-        "technologies": [
-          {
-            "class": "devicon-react",
-            "name": "React"
-          },
-          {
-            "class": "devicon-flask",
-            "name": "Flask"
-          },
-          {
-            "class": "devicon-python",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-mysql",
-            "name": "MySql"
-          }
-        ]
-      },
-      {
-        "title": "Tendencias",
-        "startDate": "2024",
-        "description": "For the Tendencias project, I was part of the team responsible for creating and managing a digital space focused on social and cultural dynamics surrounding online media in Costa Rica. The site aims to provide access to data collected from various research studies and present this data interactively and graphically, promoting new research initiatives in the field of digital media.",
-        "images": [
-          "images/portfolio/redconare/redconare3.PNG",
-          "images/portfolio/redconare/redconare4.PNG",
-          "images/portfolio/redconare/redconare7.PNG"
-        ],
-        "url": "https://tendencias.cenat.ac.cr/",
-        "technologies": [
-          {
-            "class": "devicon-react",
-            "name": "React"
-          },
-          {
-            "class": "devicon-flask",
-            "name": "Flask"
-          },
-          {
-            "class": "devicon-python",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-mongodb",
-            "name": "MongoDB"
-          }
-        ]
-      },
-      {
-        "title": "Digital Twins Fiveware",
-        "startDate": "2024",
-        "description": "This project focused on the exploration and application of Smart Data Models in the field of intelligent data management. As part of the activities, a detailed technical study was carried out to analyze their structure, characteristics and applicability in various projects. Subsequently, a proof of concept was successfully implemented to validate the functionality and scalability of Smart Data Models in a controlled environment, demonstrating their potential to optimize data management and processing in real contexts.",
-        "images": [
-          "images/portfolio/fiv/fiv1.jpeg",
-          "images/portfolio/fiv/fiv2.jpeg",
-          "images/portfolio/fiv/fiv3.jpeg",
-          "images/portfolio/fiv/fiv4.jpeg"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-react",
-            "name": "React"
-          },
-          {
-            "class": "devicon-flask",
-            "name": "Flask"
-          },
-          {
-            "class": "devicon-python",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-mongodb",
-            "name": "MongoDB"
-          }
-        ]
-      },
-      {
-        "title": "LABCIBE Chatbot WhatsApp",
-        "startDate": "2024",
-        "description": "This project was created to combat the problem of computer phishing by allowing users to report phishing attempts via images sent to a WhatsApp chat. To do this, an automated chatbot was developed with a response flow designed to collect these reports efficiently. The data obtained is stored in a database for further analysis, dissemination in awareness campaigns, and publication in social networks or other channels with the aim of preventing new attacks.",
-        "images": [
-          "images/portfolio/labcibe/labcibe4.png",
-          "images/portfolio/labcibe/labcibe5.png",
-          "images/portfolio/labcibe/labcibe1.PNG",
-          "images/portfolio/labcibe/labcibe2.PNG",
-          "images/portfolio/labcibe/labcibe3.PNG",
-          "images/portfolio/labcibe/labcibe6.png"
-        ],
-        "technologies": [
           {
             "class": "devicon-nodejs",
             "name": "Node.js"
           },
           {
-            "class": "devicon-csharp",
-            "name": "C#"
+            "class": "devicon-react",
+            "name": "React"
           },
           {
-            "class": "devicon-dotnetcore",
-            "name": ".NET Core"
+            "class": "devicon-tailwindcss",
+            "name": "TailwindCSS"
+          }
+        ]
+      },
+      {
+        "title": "SoftimesCR",
+        "startDate": "2024",
+        "description": "A comprehensive lottery and raffle management system designed to digitize and centralize the operations of games such as 'Tiempos' and '3 Monazos.' The system allows administrators to schedule draws, record results, manage sales, enforce user or game-specific limits, and automatically calculate winnings based on preconfigured payout settings. It also includes modules for commission management, user balance control, draw assignments, and detailed reporting and statistics. The platform supports a role-based hierarchy (superadmin, banker, vendor) with robust access controls and audit trails.",
+        "images": [
+          "images/portfolio/softimescr/softimes1.PNG",
+          "images/portfolio/softimescr/softimes2.PNG",
+          "images/portfolio/softimescr/softimes3.PNG",
+          "images/portfolio/softimescr/softimes4.PNG",
+          "images/portfolio/softimescr/softimes5.PNG",
+          "images/portfolio/softimescr/softimes6.PNG",
+          "images/portfolio/softimescr/softimes7.PNG"
+        ],
+        "url": "https://softimescr.com",
+        "technologies": [
+          {
+            "class": "devicon-postgresql",
+            "name": "PostgreSQL"
           },
           {
-            "class": "devicon-openapi",
-            "name": "Open API"
+            "class": "devicon-nodejs",
+            "name": "Node.js"
           },
           {
-            "class": "devicon-microsoftsqlserver",
-            "name": "SQL Server"
+            "class": "devicon-react",
+            "name": "React"
           },
           {
-            "class": "devicon-firebase",
-            "name": "Firebase"
+            "class": "devicon-tailwindcss",
+            "name": "TailwindCSS"
           }
         ]
       },
@@ -258,7 +149,6 @@
           }
         ]
       },
-
       {
         "title": "Fogo E-commerce",
         "startDate": "2023",
@@ -366,6 +256,172 @@
           {
             "class": "devicon-php",
             "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Revol-U-cionando",
+        "startDate": "2024",
+        "description": "In this project, I actively participated in the creation of content and the management of the REVOL-U-CIONANDO website, an initiative focused on automation and its impact on universities and Industry 4.0. The research explored how automation and artificial intelligence are transforming various aspects of human life, from the industrial revolution to current advancements.",
+        "images": [
+          "images/portfolio/redconare/redconare2.PNG",
+          "images/portfolio/redconare/redconare5.PNG"
+        ],
+        "url": "https://revolucionando.conare.ac.cr/",
+        "technologies": [
+          {
+            "class": "devicon-react",
+            "name": "React"
+          },
+          {
+            "class": "devicon-flask",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-python",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "Tendencias",
+        "startDate": "2024",
+        "description": "For the Tendencias project, I was part of the team responsible for creating and managing a digital space focused on social and cultural dynamics surrounding online media in Costa Rica. The site aims to provide access to data collected from various research studies and present this data interactively and graphically, promoting new research initiatives in the field of digital media.",
+        "images": [
+          "images/portfolio/redconare/redconare3.PNG",
+          "images/portfolio/redconare/redconare4.PNG",
+          "images/portfolio/redconare/redconare7.PNG"
+        ],
+        "url": "https://tendencias.cenat.ac.cr/",
+        "technologies": [
+          {
+            "class": "devicon-react",
+            "name": "React"
+          },
+          {
+            "class": "devicon-flask",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-python",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mongodb",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "COP SPIDER",
+        "startDate": "2024",
+        "description": "The COP SPIDER platform was designed and implemented as a functional collaborative solution that optimizes resource management among the parties involved. Specific modules were developed to share information, upload documents and centrally manage activities. In addition, key functionalities such as access control, forums, chat, event management, file storage and meeting organization were integrated, providing a comprehensive tool for efficient collaboration and communication between users.",
+        "images": [
+          "images/portfolio/cop/cop1.PNG",
+          "images/portfolio/cop/cop2.PNG",
+          "images/portfolio/cop/cop3.jpeg",
+          "images/portfolio/cop/cop4.jpeg",
+          "images/portfolio/cop/cop5.jpeg",
+          "images/portfolio/cop/cop6.jpeg",
+          "images/portfolio/cop/cop7.jpeg",
+          "images/portfolio/cop/cop8.jpeg"
+        ],
+        "url": "https://spidernetwork.org/CoP/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress",
+            "name": "WordPress"
+          },
+          {
+            "class": "devicon-php",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-linux",
+            "name": "Linux Ubuntu"
+          }
+        ]
+      },
+      {
+        "title": "Redconare",
+        "startDate": "2024",
+        "description": "During my time at CNCA Cenat, I was responsible for the Redconare website throughout its entire lifecycle. My responsibilities included continuous site maintenance as well as creating updated and relevant content.",
+        "images": [
+          "images/portfolio/redconare/redconare1.PNG",
+          "images/portfolio/redconare/redconare6.PNG"
+        ],
+        "url": "https://www.redconare.ac.cr/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress",
+            "name": "WordPress"
+          },
+          {
+            "class": "devicon-php",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-linux",
+            "name": "Linux Ubuntu"
+          }
+        ]
+      },
+      {
+        "title": "LABCIBE Chatbot WhatsApp",
+        "startDate": "2024",
+        "description": "This project was created to combat the problem of computer phishing by allowing users to report phishing attempts via images sent to a WhatsApp chat. To do this, an automated chatbot was developed with a response flow designed to collect these reports efficiently. The data obtained is stored in a database for further analysis, dissemination in awareness campaigns, and publication in social networks or other channels with the aim of preventing new attacks.",
+        "images": [
+          "images/portfolio/labcibe/labcibe4.png",
+          "images/portfolio/labcibe/labcibe5.png",
+          "images/portfolio/labcibe/labcibe1.PNG",
+          "images/portfolio/labcibe/labcibe2.PNG",
+          "images/portfolio/labcibe/labcibe3.PNG",
+          "images/portfolio/labcibe/labcibe6.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-nodejs",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-csharp",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dotnetcore",
+            "name": ".NET Core"
+          },
+          {
+            "class": "devicon-openapi",
+            "name": "Open API"
+          },
+          {
+            "class": "devicon-microsoftsqlserver",
+            "name": "SQL Server"
+          },
+          {
+            "class": "devicon-firebase",
+            "name": "Firebase"
           }
         ]
       }
