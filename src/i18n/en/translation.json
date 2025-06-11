@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Yader Barahona",
-    "titles": [ "Software Engineer", "Full Stack Developer", "Web Developer" ],
+    "titles": ["Software Engineer", "Full Stack Developer", "Web Developer"],
     "socials": [
       {
         "icon": "mdi:linkedin",
@@ -46,7 +46,7 @@
           "images/portfolio/cop/cop8.jpeg"
         ],
         "url": "https://spidernetwork.org/CoP/",
-"technologies": [
+        "technologies": [
           {
             "class": "devicon-wordpress",
             "name": "WordPress"
@@ -127,7 +127,6 @@
             "class": "devicon-mysql",
             "name": "MySql"
           }
-          
         ]
       },
       {
@@ -200,7 +199,7 @@
           "images/portfolio/labcibe/labcibe3.PNG",
           "images/portfolio/labcibe/labcibe6.png"
         ],
-"technologies": [
+        "technologies": [
           {
             "class": "devicon-nodejs",
             "name": "Node.js"
@@ -254,53 +253,12 @@
             "name": "Bootstrap"
           },
           {
-            "class": "devicon-php",           
+            "class": "devicon-php",
             "name": "PHP"
           }
         ]
       },
-      {
-        "title": "Mathledge App",
-        "startDate": "2024",
-        "description": "Mathledge App is a mobile application designed especially for children. Its main objective is to make learning mathematics a fun and interactive experience. Children will be able to practice addition, subtraction and multiplication while accumulating points and competing to achieve the best scores.",
-        "images": [
-          "images/portfolio/mathledge/math1.PNG",
-          "images/portfolio/mathledge/math2.PNG",
-          "images/portfolio/mathledge/math3.PNG",
-          "images/portfolio/mathledge/math4.PNG",
-          "images/portfolio/mathledge/math5.PNG",
-          "images/portfolio/mathledge/math6.PNG",
-          "images/portfolio/mathledge/math7.PNG",
-          "images/portfolio/mathledge/math8.PNG",
-          "images/portfolio/mathledge/math9.PNG"
-        ],
-"technologies": [
-          {
-            "class": "devicon-java",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-androidstudio",
-            "name": "Android Studio"
-          },
-          {
-            "class": "devicon-spring",
-            "name": "Spring"
-          },
-          {
-            "class": "devicon-sqlite",
-            "name": "SQLite"
-          },
-          {
-            "class": "devicon-mysql",
-            "name": "MySQL"
-          },
-          {
-            "class": "devicon-figma",
-            "name": "Figma"
-          }
-        ]
-      },
+
       {
         "title": "Fogo E-commerce",
         "startDate": "2023",
@@ -328,8 +286,50 @@
             "name": "Bootstrap"
           },
           {
-            "class": "devicon-php",           
+            "class": "devicon-php",
             "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Mathledge App",
+        "startDate": "2024",
+        "description": "Mathledge App is a mobile application designed especially for children. Its main objective is to make learning mathematics a fun and interactive experience. Children will be able to practice addition, subtraction and multiplication while accumulating points and competing to achieve the best scores.",
+        "images": [
+          "images/portfolio/mathledge/math1.PNG",
+          "images/portfolio/mathledge/math2.PNG",
+          "images/portfolio/mathledge/math3.PNG",
+          "images/portfolio/mathledge/math4.PNG",
+          "images/portfolio/mathledge/math5.PNG",
+          "images/portfolio/mathledge/math6.PNG",
+          "images/portfolio/mathledge/math7.PNG",
+          "images/portfolio/mathledge/math8.PNG",
+          "images/portfolio/mathledge/math9.PNG"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-java",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-androidstudio",
+            "name": "Android Studio"
+          },
+          {
+            "class": "devicon-spring",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-sqlite",
+            "name": "SQLite"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-figma",
+            "name": "Figma"
           }
         ]
       },
@@ -364,14 +364,13 @@
             "name": "Bootstrap"
           },
           {
-            "class": "devicon-php",           
+            "class": "devicon-php",
             "name": "PHP"
           }
         ]
       }
     ]
   },
-
 
   "projects_personal": {
     "title": "personal projects",
@@ -420,7 +419,7 @@
         "class": "devicon-css3",
         "level": "95"
       },
-      { 
+      {
         "name": "Bootstrap",
         "class": "devicon-bootstrap",
         "level": "85"
@@ -543,17 +542,24 @@
           "MongoDB",
           "Linux Ubuntu",
           "Docker",
-          "SCRUM", 
+          "SCRUM",
           "KANBAN"
         ]
       },
-      {     
+      {
         "company": "Nearlinx",
         "title": "Intern Software Engineer",
         "years": "07/2024 - 11/2024",
         "mainTech": "React",
         "mainTechIcon": "mdi-dot-net",
-        "technologies": ["C#", ".NET Framework", "SQL Server", "SCRUM", "KANBAN", "MVC"]
+        "technologies": [
+          "C#",
+          ".NET Framework",
+          "SQL Server",
+          "SCRUM",
+          "KANBAN",
+          "MVC"
+        ]
       },
       {
         "company": "LabCIBE-UNA",
@@ -561,7 +567,15 @@
         "years": "04/2024 - 11/2024",
         "mainTech": "React",
         "mainTechIcon": "mdi-nodejs",
-        "technologies": ["API Restful", "C#", ".NET Framework", "SQL Server", "Node.js", "Firebase", "SCRUM"]
+        "technologies": [
+          "API Restful",
+          "C#",
+          ".NET Framework",
+          "SQL Server",
+          "Node.js",
+          "Firebase",
+          "SCRUM"
+        ]
       },
       {
         "company": "Berjumi E-commerce - Freelance Project",
@@ -569,7 +583,14 @@
         "years": "04/2024 - 07/2024",
         "mainTech": "React",
         "mainTechIcon": "mdi-language-php",
-        "technologies": ["PHP", "JavaScript", "Mysql", "Bootstrap", "MVC", "SCRUM"]
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "Mysql",
+          "Bootstrap",
+          "MVC",
+          "SCRUM"
+        ]
       },
       {
         "company": "Fogo E-commerce - Freelance Project",
@@ -577,7 +598,14 @@
         "years": "03/2023 - 10/2023",
         "mainTech": "React",
         "mainTechIcon": "mdi-language-php",
-        "technologies": ["PHP", "JavaScript", "Mysql", "Bootstrap", "MVC", "SCRUM"]
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "Mysql",
+          "Bootstrap",
+          "MVC",
+          "SCRUM"
+        ]
       }
     ]
   },

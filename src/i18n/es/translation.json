@@ -1,7 +1,11 @@
 {
   "basic_info": {
     "name": "Yader Barahona",
-    "titles": ["Ingeniero de Software", "Desarrollador Full Stack", "Desarrollador Web"],
+    "titles": [
+      "Ingeniero de Software",
+      "Desarrollador Full Stack",
+      "Desarrollador Web"
+    ],
     "socials": [
       {
         "icon": "mdi:linkedin",
@@ -24,7 +28,7 @@
   "about_me": {
     "title": "Sobre mí",
     "greeting": "Hola",
-    "content": "👋 Mi nombre es Yader Barahona. Profesional graduado en ingeniería de sistemas de información, con un enfoque proactivo y autodidacta, con experiencia en desarrollo de software fullstack y administración de servidores. Me destaco por mi capacidad para aprender rápidamente y adaptarme a entornos dinámicos.",
+    "content": "👋 Mi nombre es Yader Barahona. Ingeniero en Sistemas de Información, con un enfoque proactivo y autodidacta, con experiencia en desarrollo de software fullstack y administración de servidores. Me destaco por mi capacidad para aprender rápidamente y adaptarme a entornos dinámicos.",
     "image": "Yader_Barahona.jpg",
     "tech_stacks": ["devicon:nodejs", "devicon:react", "devicon:mysql"]
   },
@@ -32,72 +36,258 @@
     "title": "proyectos",
     "projects": [
       {
-        "title": "COP SPIDER",
+        "title": "NcVitamins",
         "startDate": "2024",
-        "description": "La plataforma COP SPIDER fue diseñada e implementada como una solución colaborativa funcional que optimiza la gestión de recursos entre las partes involucradas. Se desarrollaron módulos específicos para compartir información, subir documentos y gestionar actividades de forma centralizada. Además, se integraron funcionalidades clave, como control de acceso, foros, chat, gestión de eventos, almacenamiento de archivos y organización de reuniones, proporcionando una herramienta integral para la colaboración eficiente y la comunicación entre los usuarios.",
+        "description": "Proyecto de desarrollo de una tienda en línea enfocada en la comercialización de productos medicinales naturales. Esta plataforma e-commerce fue diseñada para facilitar el acceso a suplementos y tratamientos alternativos dirigidos a mejorar diversas condiciones de salud. La solución permite a los clientes explorar, seleccionar y adquirir productos de forma intuitiva, mientras que el equipo administrativo gestiona inventarios, pedidos y promociones desde un panel de control centralizado.",
         "images": [
-          "images/portfolio/cop/cop1.PNG",
-          "images/portfolio/cop/cop2.PNG",
-          "images/portfolio/cop/cop3.jpeg",
-          "images/portfolio/cop/cop4.jpeg",
-          "images/portfolio/cop/cop5.jpeg",
-          "images/portfolio/cop/cop6.jpeg",
-          "images/portfolio/cop/cop7.jpeg",
-          "images/portfolio/cop/cop8.jpeg"
+          "images/portfolio/ncvitamins/nc1.PNG",
+          "images/portfolio/ncvitamins/nc2.PNG",
+          "images/portfolio/ncvitamins/nc3.PNG"
         ],
-        "url": "https://spidernetwork.org/CoP/",
-"technologies": [
+        "url": "https://ncvitamins.com/",
+        "technologies": [
           {
-            "class": "devicon-wordpress",
-            "name": "WordPress"
-          },
-          {
-            "class": "devicon-php",
-            "name": "PHP"
+            "class": "devicon-html5",
+            "name": "HTML"
           },
           {
             "class": "devicon-javascript",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-mysql",
-            "name": "MySql"
-          },
-          {
-            "class": "devicon-linux",
-            "name": "Linux Ubuntu"
+            "class": "devicon-css3",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "Redconare",
+        "title": "ConcentradosABA",
         "startDate": "2024",
-        "description": "Durante mi estancia en CNCA Cenat, estuve a cargo de la página web de Redconare en todo su ciclo. Mi responsabilidad abarcó tanto el mantenimiento continuo del sitio como la creación de contenido actualizado y relevante.",
+        "description": "Sistema web desarrollado para la gestión logística de rutas de clientes y vendedores en el sector agropecuario, especializado en la distribución de concentrados alimenticios para animales. La plataforma permite registrar, asignar y monitorear visitas técnicas y comerciales, optimizando el seguimiento de cada cliente según su ubicación geográfica y ruta asignada. Incluye funcionalidades para la gestión de usuarios, generación de reportes, y control de actividades realizadas en campo, lo que mejora la eficiencia operativa y la trazabilidad de las visitas realizadas por los vendedores.",
         "images": [
-          "images/portfolio/redconare/redconare1.PNG",
-          "images/portfolio/redconare/redconare6.PNG"
+          "images/portfolio/aba/aba1.PNG",
+          "images/portfolio/aba/aba2.PNG"
         ],
-        "url": "https://www.redconare.ac.cr/",
-"technologies": [
+        "url": "https://concentradosaba.com",
+        "technologies": [
           {
-            "class": "devicon-wordpress",
-            "name": "WordPress"
+            "class": "devicon-postgresql",
+            "name": "PostgreSQL"
           },
           {
-            "class": "devicon-php",
-            "name": "PHP"
+            "class": "devicon-nodejs",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-react",
+            "name": "React"
+          },
+          {
+            "class": "devicon-tailwindcss",
+            "name": "TailwindCSS"
+          }
+        ]
+      },
+      {
+        "title": "SoftimesCR",
+        "startDate": "2024",
+        "description": "Sistema integral para la gestión de sorteos y loterías, diseñado para digitalizar y centralizar los procesos involucrados en la operación de juegos de azar tipo 'Tiempos' y '3 Monazos'. El sistema permite a administradores programar sorteos, registrar resultados, gestionar ventas, aplicar límites por usuario o sorteo, y calcular premios automáticamente según configuraciones predefinidas. Además, incluye módulos de comisiones, control de saldo de usuarios, asignación de sorteos y visualización de estadísticas y reportes. La plataforma está pensada para roles jerárquicos (superadmin, banquero, vendedor) con controles de acceso y trazabilidad detallada.",
+        "images": [
+          "images/portfolio/softimescr/softimes1.PNG",
+          "images/portfolio/softimescr/softimes2.PNG",
+          "images/portfolio/softimescr/softimes3.PNG",
+          "images/portfolio/softimescr/softimes4.PNG",
+          "images/portfolio/softimescr/softimes5.PNG",
+          "images/portfolio/softimescr/softimes6.PNG",
+          "images/portfolio/softimescr/softimes7.PNG"
+        ],
+        "url": "https://softimescr.com",
+        "technologies": [
+          {
+            "class": "devicon-postgresql",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-nodejs",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-react",
+            "name": "React"
+          },
+          {
+            "class": "devicon-tailwindcss",
+            "name": "TailwindCSS"
+          }
+        ]
+      },
+      {
+        "title": "Berjumi E-commerce",
+        "startDate": "2024",
+        "description": "Este proyecto consiste en el desarrollo de una tienda en línea especializada en la venta de productos automotrices, diseñada para facilitar la compra y gestión de productos de manera más eficiente y moderna. Antes, el proceso de pedidos se realizaba de forma manual, lo que dificultaba el seguimiento y la organización de los mismos. Con esta plataforma, los clientes pueden realizar pedidos de manera rápida y sencilla, mientras que los administradores del sistema gestionan todas las compras desde un único entorno digital.",
+        "images": [
+          "images/portfolio/berjumi/berjumi1.PNG",
+          "images/portfolio/berjumi/berjumi2.PNG"
+        ],
+        "url": "https://berjumi.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-mysql",
-            "name": "MySql"
+            "class": "devicon-bootstrap",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-linux",
-            "name": "Linux Ubuntu"
+            "class": "devicon-php",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Fogo E-commerce",
+        "startDate": "2023",
+        "description": "Este proyecto consiste en el desarrollo de una plataforma de comercio electrónico especializada en la venta de productos grocery. La tienda en línea está diseñada para ofrecer una experiencia de compra fluida y segura, permitiendo a los usuarios navegar y adquirir productos de manera rápida y sencilla.",
+        "images": [
+          "images/portfolio/fogo/fogo1.PNG",
+          "images/portfolio/fogo/fogo2.PNG"
+        ],
+        "url": "https://fogocr.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-php",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Mathledge App",
+        "startDate": "2024",
+        "description": "Mathledge App es una aplicación móvil diseñada especialmente para el público infantil. Su objetivo principal es hacer del aprendizaje de las matemáticas una experiencia divertida e interactiva. Los niños podrán practicar sumas, restas y multiplicaciones mientras acumulan puntos y compiten para alcanzar los mejores puntajes.",
+        "images": [
+          "images/portfolio/mathledge/math1.PNG",
+          "images/portfolio/mathledge/math2.PNG",
+          "images/portfolio/mathledge/math3.PNG",
+          "images/portfolio/mathledge/math4.PNG",
+          "images/portfolio/mathledge/math5.PNG",
+          "images/portfolio/mathledge/math6.PNG",
+          "images/portfolio/mathledge/math7.PNG",
+          "images/portfolio/mathledge/math8.PNG",
+          "images/portfolio/mathledge/math9.PNG"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-java",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-androidstudio",
+            "name": "Android Studio"
+          },
+          {
+            "class": "devicon-spring",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-sqlite",
+            "name": "SQLite"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-figma",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "Sistema de control de asistencia CTPL",
+        "startDate": "2023",
+        "description": "Este proyecto consiste en el desarrollo de un sistema de control de asistencia destinado a mejorar la gestión de la asistencia de los estudiantes al comedor del Colegio Técnico de Liberia. La solución permite registrar y monitorear de manera eficiente la presencia de los estudiantes, garantizando una distribución adecuada de los recursos del comedor y facilitando la toma de decisiones en tiempo real.",
+        "images": [
+          "images/portfolio/ctpl/ctpl1.png",
+          "images/portfolio/ctpl/ctpl2.PNG",
+          "images/portfolio/ctpl/ctpl3.PNG",
+          "images/portfolio/ctpl/ctpl4.PNG",
+          "images/portfolio/ctpl/ctpl5.PNG",
+          "images/portfolio/ctpl/ctpl6.PNG",
+          "images/portfolio/ctpl/ctpl7.PNG"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-html5",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-php",
+            "name": "PHP"
+          },
+          {
+            "title": "TODO LIST MERN AUTH",
+            "startDate": "2024",
+            "description": "Durante mi estancia en CNCA Cenat, estuve a cargo de la página web de Redconare en todo su ciclo. Mi responsabilidad abarcó tanto el mantenimiento continuo del sitio como la creación de contenido actualizado y relevante.",
+            "images": [
+              "images/portfolio/todol/todol1.PNG",
+              "images/portfolio/todol/todol2.PNG"
+            ],
+            "url": "https://todolist-mern-auth.netlify.app/",
+            "technologies": [
+              {
+                "class": "devicon-react",
+                "name": "React"
+              },
+              {
+                "class": "devicon-express",
+                "name": "Express"
+              },
+              {
+                "class": "devicon-mongodb",
+                "name": "MongoDB"
+              },
+              {
+                "class": "devicon-tailwindcss",
+                "name": "TailwindCSS"
+              }
+            ]
           }
         ]
       },
@@ -127,7 +317,6 @@
             "class": "devicon-mysql",
             "name": "MySql"
           }
-          
         ]
       },
       {
@@ -160,31 +349,72 @@
         ]
       },
       {
-        "title": "Digital Twins Fiveware",
+        "title": "COP SPIDER",
         "startDate": "2024",
-        "description": "Este proyecto se enfocó en la exploración y aplicación de los Smart Data Models en el ámbito de la gestión inteligente de datos. Como parte de las actividades, se realizó un estudio técnico detallado para analizar su estructura, características y aplicabilidad en diversos proyectos. Posteriormente, se implementó exitosamente una prueba de concepto que permitió validar la funcionalidad y escalabilidad de los Smart Data Models en un entorno controlado, demostrando su potencial para optimizar la gestión y el procesamiento de datos en contextos reales.",
+        "description": "La plataforma COP SPIDER fue diseñada e implementada como una solución colaborativa funcional que optimiza la gestión de recursos entre las partes involucradas. Se desarrollaron módulos específicos para compartir información, subir documentos y gestionar actividades de forma centralizada. Además, se integraron funcionalidades clave, como control de acceso, foros, chat, gestión de eventos, almacenamiento de archivos y organización de reuniones, proporcionando una herramienta integral para la colaboración eficiente y la comunicación entre los usuarios.",
         "images": [
-          "images/portfolio/fiv/fiv1.jpeg",
-          "images/portfolio/fiv/fiv2.jpeg",
-          "images/portfolio/fiv/fiv3.jpeg",
-          "images/portfolio/fiv/fiv4.jpeg"
+          "images/portfolio/cop/cop1.PNG",
+          "images/portfolio/cop/cop2.PNG",
+          "images/portfolio/cop/cop3.jpeg",
+          "images/portfolio/cop/cop4.jpeg",
+          "images/portfolio/cop/cop5.jpeg",
+          "images/portfolio/cop/cop6.jpeg",
+          "images/portfolio/cop/cop7.jpeg",
+          "images/portfolio/cop/cop8.jpeg"
         ],
+        "url": "https://spidernetwork.org/CoP/",
         "technologies": [
           {
-            "class": "devicon-react",
-            "name": "React"
+            "class": "devicon-wordpress",
+            "name": "WordPress"
           },
           {
-            "class": "devicon-flask",
-            "name": "Flask"
+            "class": "devicon-php",
+            "name": "PHP"
           },
           {
-            "class": "devicon-python",
-            "name": "Python"
+            "class": "devicon-javascript",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-mongodb",
-            "name": "MongoDB"
+            "class": "devicon-mysql",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-linux",
+            "name": "Linux Ubuntu"
+          }
+        ]
+      },
+      {
+        "title": "Redconare",
+        "startDate": "2024",
+        "description": "Durante mi estancia en CNCA Cenat, estuve a cargo de la página web de Redconare en todo su ciclo. Mi responsabilidad abarcó tanto el mantenimiento continuo del sitio como la creación de contenido actualizado y relevante.",
+        "images": [
+          "images/portfolio/redconare/redconare1.PNG",
+          "images/portfolio/redconare/redconare6.PNG"
+        ],
+        "url": "https://www.redconare.ac.cr/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress",
+            "name": "WordPress"
+          },
+          {
+            "class": "devicon-php",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mysql",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-linux",
+            "name": "Linux Ubuntu"
           }
         ]
       },
@@ -200,7 +430,7 @@
           "images/portfolio/labcibe/labcibe3.PNG",
           "images/portfolio/labcibe/labcibe6.png"
         ],
-    "technologies": [
+        "technologies": [
           {
             "class": "devicon-nodejs",
             "name": "Node.js"
@@ -226,176 +456,6 @@
             "name": "Firebase"
           }
         ]
-      },
-      {
-        "title": "Berjumi E-commerce",
-        "startDate": "2024",
-        "description": "Este proyecto consiste en el desarrollo de una tienda en línea especializada en la venta de productos automotrices, diseñada para facilitar la compra y gestión de productos de manera más eficiente y moderna. Antes, el proceso de pedidos se realizaba de forma manual, lo que dificultaba el seguimiento y la organización de los mismos. Con esta plataforma, los clientes pueden realizar pedidos de manera rápida y sencilla, mientras que los administradores del sistema gestionan todas las compras desde un único entorno digital.",
-        "images": [
-          "images/portfolio/berjumi/berjumi1.PNG",
-          "images/portfolio/berjumi/berjumi2.PNG"
-        ],
-        "url": "https://berjumi.com/",
-"technologies": [
-          {
-            "class": "devicon-html5",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-css3",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-bootstrap",
-            "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-php",           
-            "name": "PHP"
-          }
-        ]
-      },
-      {
-        "title": "Mathledge App",
-        "startDate": "2024",
-        "description": "Mathledge App es una aplicación móvil diseñada especialmente para el público infantil. Su objetivo principal es hacer del aprendizaje de las matemáticas una experiencia divertida e interactiva. Los niños podrán practicar sumas, restas y multiplicaciones mientras acumulan puntos y compiten para alcanzar los mejores puntajes.",
-        "images": [
-          "images/portfolio/mathledge/math1.PNG",
-          "images/portfolio/mathledge/math2.PNG",
-          "images/portfolio/mathledge/math3.PNG",
-          "images/portfolio/mathledge/math4.PNG",
-          "images/portfolio/mathledge/math5.PNG",
-          "images/portfolio/mathledge/math6.PNG",
-          "images/portfolio/mathledge/math7.PNG",
-          "images/portfolio/mathledge/math8.PNG",
-          "images/portfolio/mathledge/math9.PNG"
-        ],
-"technologies": [
-          {
-            "class": "devicon-java",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-androidstudio",
-            "name": "Android Studio"
-          },
-          {
-            "class": "devicon-spring",
-            "name": "Spring"
-          },
-          {
-            "class": "devicon-sqlite",
-            "name": "SQLite"
-          },
-          {
-            "class": "devicon-mysql",
-            "name": "MySQL"
-          },
-          {
-            "class": "devicon-figma",
-            "name": "Figma"
-          }
-        ]
-      },
-      {
-        "title": "Fogo E-commerce",
-        "startDate": "2023",
-        "description": "Este proyecto consiste en el desarrollo de una plataforma de comercio electrónico especializada en la venta de productos grocery. La tienda en línea está diseñada para ofrecer una experiencia de compra fluida y segura, permitiendo a los usuarios navegar y adquirir productos de manera rápida y sencilla.",
-        "images": [
-          "images/portfolio/fogo/fogo1.PNG",
-          "images/portfolio/fogo/fogo2.PNG"
-        ],
-        "url": "https://fogocr.com/",
-"technologies": [
-          {
-            "class": "devicon-html5",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-css3",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-bootstrap",
-            "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-php",           
-            "name": "PHP"
-          }
-        ]
-      },
-      {
-        "title": "Sistema de control de asistencia CTPL",
-        "startDate": "2023",
-        "description": "Este proyecto consiste en el desarrollo de un sistema de control de asistencia destinado a mejorar la gestión de la asistencia de los estudiantes al comedor del Colegio Técnico de Liberia. La solución permite registrar y monitorear de manera eficiente la presencia de los estudiantes, garantizando una distribución adecuada de los recursos del comedor y facilitando la toma de decisiones en tiempo real.",
-        "images": [
-          "images/portfolio/ctpl/ctpl1.png",
-          "images/portfolio/ctpl/ctpl2.PNG",
-          "images/portfolio/ctpl/ctpl3.PNG",
-          "images/portfolio/ctpl/ctpl4.PNG",
-          "images/portfolio/ctpl/ctpl5.PNG",
-          "images/portfolio/ctpl/ctpl6.PNG",
-          "images/portfolio/ctpl/ctpl7.PNG"
-        ],
-"technologies": [
-          {
-            "class": "devicon-html5",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-css3",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-javascript",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-bootstrap",
-            "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-php",           
-            "name": "PHP"
-          },
-          {
-            "title": "TODO LIST MERN AUTH",
-            "startDate": "2024",
-            "description": "Durante mi estancia en CNCA Cenat, estuve a cargo de la página web de Redconare en todo su ciclo. Mi responsabilidad abarcó tanto el mantenimiento continuo del sitio como la creación de contenido actualizado y relevante.",
-            "images": [
-              "images/portfolio/todol/todol1.PNG",
-              "images/portfolio/todol/todol2.PNG"
-            ],
-            "url": "https://todolist-mern-auth.netlify.app/",
-            "technologies": [
-              {
-                "class": "devicon-react",
-                "name": "React"
-              },
-              {
-                "class": "devicon-express",
-                "name": "Express"
-              },
-              {
-                "class": "devicon-mongodb",
-                "name": "MongoDB"
-              },
-              {
-                "class": "devicon-tailwindcss",
-                "name": "TailwindCSS"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -412,7 +472,7 @@
         "class": "devicon-css3",
         "level": "95"
       },
-      { 
+      {
         "name": "Bootstrap",
         "class": "devicon-bootstrap",
         "level": "85"
@@ -545,7 +605,14 @@
         "years": "07/2024 - 11/2024",
         "mainTech": "React",
         "mainTechIcon": "mdi-dot-net",
-        "technologies": ["C#", ".NET Framework", "SQL Server", "SCRUM", "KANBAN", "MVC"]
+        "technologies": [
+          "C#",
+          ".NET Framework",
+          "SQL Server",
+          "SCRUM",
+          "KANBAN",
+          "MVC"
+        ]
       },
       {
         "company": "LabCIBE-UNA",
@@ -553,7 +620,15 @@
         "years": "04/2024 - 11/2024",
         "mainTech": "React",
         "mainTechIcon": "mdi-nodejs",
-        "technologies": ["API Restful", "C#", ".NET Framework", "SQL Server", "Node.js", "Firebase", "SCRUM"]
+        "technologies": [
+          "API Restful",
+          "C#",
+          ".NET Framework",
+          "SQL Server",
+          "Node.js",
+          "Firebase",
+          "SCRUM"
+        ]
       },
       {
         "company": "Berjumi E-commerce - Proyecto Freelance",
@@ -561,7 +636,14 @@
         "years": "04/2024 - 07/2024",
         "mainTech": "React",
         "mainTechIcon": "mdi-language-php",
-        "technologies": ["PHP", "JavaScript", "Mysql", "Bootstrap", "MVC", "SCRUM"]
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "Mysql",
+          "Bootstrap",
+          "MVC",
+          "SCRUM"
+        ]
       },
       {
         "company": "Fogo E-commerce - Proyecto Freelance",
@@ -569,7 +651,14 @@
         "years": "03/2023 - 10/2023",
         "mainTech": "React",
         "mainTechIcon": "mdi-language-php",
-        "technologies": ["PHP", "JavaScript", "Mysql", "Bootstrap", "MVC", "SCRUM"]
+        "technologies": [
+          "PHP",
+          "JavaScript",
+          "Mysql",
+          "Bootstrap",
+          "MVC",
+          "SCRUM"
+        ]
       }
     ]
   },
