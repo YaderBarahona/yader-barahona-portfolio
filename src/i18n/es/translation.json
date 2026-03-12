@@ -29,12 +29,41 @@
     "title": "Sobre mí",
     "greeting": "Hola",
     "content": "👋 Mi nombre es Yader Barahona. Ingeniero en Sistemas de Información, con un enfoque proactivo y autodidacta, con experiencia en desarrollo de software fullstack y administración de servidores. Me destaco por mi capacidad para aprender rápidamente y adaptarme a entornos dinámicos.",
-    "image": "Yader_Barahona.jpg",
-    "tech_stacks": ["devicon:nodejs", "devicon:react", "devicon:mysql"]
+    "image": "me_passport.png",
+    "tech_stacks": ["devicon:dotnetcore", "devicon:react", "devicon:azuresqldatabase"]
   },
   "projects": {
     "title": "proyectos",
     "projects": [
+      {
+        "title": "TECOSA",
+        "startDate": "2025",
+        "description": "Proyecto de desarrollo de una landing page corporativa para TECOSA S.A una empresa del sector construcción. Esta plataforma web fue diseñada para fortalecer la presencia digital de la empresa, permitiendo a los visitantes conocer su experiencia, portafolio de obras y soluciones constructivas. La página facilita que los potenciales clientes obtengan información relevante sobre los servicios ofrecidos, visualicen proyectos realizados y establezcan contacto de forma rápida mediante formularios y canales directos de comunicación. Además, la estructura del sitio está optimizada para brindar una navegación intuitiva, mejorar la visibilidad de la marca y apoyar las estrategias de captación de nuevos clientes.",
+        "images": [
+          "images/portfolio/tecosa/tecosa.PNG",
+          "images/portfolio/tecosa/tecosa2.PNG",
+          "images/portfolio/tecosa/tecosa3.PNG"
+        ],
+        "url": "https://tecosa.net/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress",
+            "name": "WordPress"
+          },
+          {
+            "class": "devicon-html5",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3",
+            "name": "CSS"
+          }
+        ]
+      },
       {
         "title": "NcVitamins",
         "startDate": "2024",
@@ -578,9 +607,42 @@
     "title": "Experiencia",
     "experiences": [
       {
+        "company": "Novacomp - Contrato Indefinido",
+        "title": "Software Engineer II",
+        "years": "03/2026 - Actualidad",
+        "mainTech": "PHP - JS - Angular - PostgreSQL - SQL Server - Linux Ubuntu Server",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React.js",
+          ".NET Core",
+          "SQL Server",
+          "SCRUM"
+        ]
+      },
+      {
+        "company": "FRUNO - Contrato Indefinido",
+        "title": "Desarrollo Web FullStack",
+        "years": "07/2025 - 02/2026",
+        "mainTech": "PHP - .NET Core - JS - Angular - PostgreSQL - SQL Server - Linux Ubuntu Server",
+        "mainTechIcon": "mdi:language-javascript",
+        "technologies": [
+          "API Restful",
+          "PHP",
+          ".NET Core",
+          "Node.js",
+          "JavaScript",
+          "Angular",
+          "SQL Server",
+          "PostgreSQL",
+          "Docker",
+          "Linux Ubuntu Server",
+          "KANBAN" 
+        ]
+      },
+      {
         "company": "CNCA CeNAT - Contrato Temporal",
         "title": "Desarrollo Web y Monitoreo",
-        "years": "05/2024 - 12/2024",
+        "years": "05/2024 - 04/2025",
         "mainTech": "PHP - JS - React - Linux Ubuntu",
         "mainTechIcon": "mdi:linux",
         "technologies": [
@@ -593,30 +655,15 @@
           "Node.js",
           "Mysql",
           "MongoDB",
-          "Linux Ubuntu",
+          "Linux Ubuntu Server",
           "Docker",
           "SCRUM",
           "KANBAN"
         ]
       },
       {
-        "company": "Nearlinx",
-        "title": "Ingeniero de Software Interno",
-        "years": "07/2024 - 11/2024",
-        "mainTech": "React",
-        "mainTechIcon": "mdi-dot-net",
-        "technologies": [
-          "C#",
-          ".NET Framework",
-          "SQL Server",
-          "SCRUM",
-          "KANBAN",
-          "MVC"
-        ]
-      },
-      {
         "company": "LabCIBE-UNA",
-        "title": "Desarrollo Web FullStack",
+        "title": "Desarrollo Web FullStack - Contrato Definido",
         "years": "04/2024 - 11/2024",
         "mainTech": "React",
         "mainTechIcon": "mdi-nodejs",
@@ -627,36 +674,6 @@
           "SQL Server",
           "Node.js",
           "Firebase",
-          "SCRUM"
-        ]
-      },
-      {
-        "company": "Berjumi E-commerce - Proyecto Freelance",
-        "title": "Desarrollo Web FullStack",
-        "years": "04/2024 - 07/2024",
-        "mainTech": "React",
-        "mainTechIcon": "mdi-language-php",
-        "technologies": [
-          "PHP",
-          "JavaScript",
-          "Mysql",
-          "Bootstrap",
-          "MVC",
-          "SCRUM"
-        ]
-      },
-      {
-        "company": "Fogo E-commerce - Proyecto Freelance",
-        "title": "Desarrollo Web FullStack",
-        "years": "03/2023 - 10/2023",
-        "mainTech": "React",
-        "mainTechIcon": "mdi-language-php",
-        "technologies": [
-          "PHP",
-          "JavaScript",
-          "Mysql",
-          "Bootstrap",
-          "MVC",
           "SCRUM"
         ]
       }
