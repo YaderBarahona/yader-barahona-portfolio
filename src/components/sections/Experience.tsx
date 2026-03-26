@@ -25,9 +25,9 @@ const Experience = () => {
       </h2>
 
       <VerticalTimeline>
-        {t("experience.experiences", { returnObjects: true }).map((exp) => (
+        {t("experience.experiences", { returnObjects: true }).map((exp, index) => (
           <VerticalTimelineElement
-            key={exp.title}
+            key={index}
             date={exp.years}
             dateClassName="dark:text-black"
             iconClassName="bg-[#AE944F] text-white dark:bg-[#919191]"
